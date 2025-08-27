@@ -1,3 +1,3 @@
 # GQPS
-A traffic demand generator and calibrator tool with minimal data within SUMO environment.
+A traffic demand generator and calibrator tool with minimal data.
 The repository is under construction. 
