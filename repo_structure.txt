@@ -1,0 +1,10 @@
+GQPS/
+├── gravitytripgenerator.py
+├── QPtrafficcalibrator.py
+├── validator.py
+├── requirements.txt
+├── README.md
+├── examples/
+│   ├── run_gravity_example.sh
+│   ├── run_qp_example.sh
+│   └── run_validator_example.sh
